@@ -1,4 +1,4 @@
-# notes_whit_firebas
+# notes_whit_firebase
 
 hellos please give me a comment on the app.
 firebase link
