@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    padding-top: 20px;
+    user-select: none;
+}
+
+#container{
+    margin: auto;
+    max-width: 300px;
+    border: 1px #00008b solid;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+    padding: 10px;
+}
+img{
+    min-height: 50px;
+    background-color: grey;
+}
+#input-field{
+    border-radius: 4px;
+    width: 290px;
+    padding: 5px;
+    margin: center;
+    border: none;
+    background-color: rgba(0, 255, 255, 0.095);
+    box-shadow: 1px 1px 3px grey,-1px -1px 3px darkgrey;
+}
+#add-button{
+    margin-top: 5px;
+    border-radius: 4px;
+    width: 300px;
+    padding: 5px;
+    border: none;
+    margin: center;
+    text-transform: uppercase;
+    background-color: rgba(165, 42, 42, 0.265);
+    box-shadow: 1px 1px 3px rgba(255, 0, 0, 0.18),-1px -1px 3px rgba(255, 0, 0, 0.028);
+}
+#elementos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.elemento{
+    display: flex;
+    padding: 5px;
+    flex-grow: 1;
+    border: solid black 1px;
+    border-radius: 7px;
+    margin: 3px;
+
+}
