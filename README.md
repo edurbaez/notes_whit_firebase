@@ -1,5 +1,5 @@
 # notes_whit_firebas
 
-hellos please give me a comment.
+hellos please give me a comment on the app.
 firebase link
-notas-cortas.netlify.app
+https://notas-cortas.netlify.app/
